@@ -20,5 +20,6 @@ except it shows full details of the individual customer when searched by
 order id or customer name.
 
 **4.Update Details:** This feature is used for updating the Customer details.
-5.Cancel Order: This feature is used for cancelling order by deleting the
+
+**5.Cancel Order:** This feature is used for cancelling order by deleting the
 record of a particular customer.
